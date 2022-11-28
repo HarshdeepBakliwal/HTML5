@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        button.a1{
+            background-color: rgb(30, 36, 153);
+            border:none;
+            color:rgb(192, 176, 38);
+            padding:12.5px;
+            display: inline-block;
+            font-size: 14px;
+            margin:4px 2px;
+            text-align: center;
+            text-decoration: none;
+            cursor:pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div>
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fphoto&psig=AOvVaw29VvG5YzVm5Holu_HDwOXy&ust=1669700818784000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCb07OW0PsCFQAAAAAdAAAAABAE" alt="abc" style="align-self:left; width: 20%;">
+            <hr>
+        </div>
+    </header>
+    <h1>abc</h1>
+    <p>
+        GitHub provides you a beautiful visual interface which helps you to track or manage your version controlled projects locally.
+Once you register on GitHub, you can connect with social network and build a strong profile.
+
+
+    </p>
+</body>
+</html>
